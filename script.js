@@ -8,7 +8,7 @@ const image3 = document.querySelector(".img3");
 
 const url = "https://nekos.best/api/v2/husbando";
 const url2 = "https://nekos.best/api/v2/kitsune";
-const url3 = "https://nekos.best/api/v2/error";
+const url3 = "https://nekos.best/api/v2/waifu";
 
 async function fetchHandler(number)
 {
